@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: w8eirjo24-nodejs-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/w8eirjo24-nodejs
